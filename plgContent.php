@@ -19,7 +19,7 @@
 	* Scan for module string
 	*/
 	public function onContentPrepare($context, &$article, &$params, $page) 
-  {
+	{
 		return true;
 	}
  
