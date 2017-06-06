@@ -21,6 +21,7 @@
 	public function onContentPrepare($context, &$article, &$params, $page) 
 	{
 		// some actions could be done
+		// this is a mock
 		return true;
 	}
  
