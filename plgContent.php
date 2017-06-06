@@ -22,9 +22,11 @@
 	{
 		// some actions could be done
 		// this is a mock
+		changes();
 		return true;
 	}
- 
+
+	public function changes() {;}
  }
 
 ?>
